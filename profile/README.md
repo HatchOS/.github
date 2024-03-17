@@ -1,5 +1,5 @@
 # HatchOS
-Is made by the HatchOS Team (litteraly only 2 developers as of now!)
+Is made by the HatchOS Team (5 developers)
 
 ## HatchOS is a..
 Command line OS, 
